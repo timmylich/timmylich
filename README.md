@@ -23,9 +23,9 @@
 
 ### 🚀 Technologies & Tools
 
-- **Languages**: ![Pawn](https://img.shields.io/badge/-Pawn-323330?style=flat&logo=pawn&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Languages**: ![Pawn](https://img.shields.io/badge/-Pawn-824340?style=flat&logo=pawn&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Frameworks**: ![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
-- **Tools**: ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux)
+- **Tools**: ![Git](https://img.shields.io/badge/-git-orange?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-orange?style=flat&logo=linux&logoColor=black)
 
 ---
 
