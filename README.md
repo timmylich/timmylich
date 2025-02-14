@@ -14,8 +14,8 @@
 
 ### 🚀 Technologies & Tools
 
-- **Languages**: ![Pawn](https://img.shields.io/badge/-Pawn-824340?style=flat&logo=pawn&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat&logo=PHP&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-ffe819?style=flat&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
-- **Frameworks**: ![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white) ![LESS](https://img.shields.io/badge/-LESS-004daa?style=flat&logo=LESS&logoColor=white) ![LESS](https://img.shields.io/badge/-Tailwind-0ca4ea?style=flat&logo=TailwindCSS&logoColor=white)
+- **Languages**: ![Pawn](https://img.shields.io/badge/-Pawn-824340?style=flat&logo=pawn&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat&logo=PHP&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-ffe819?style=flat&logo=JavaScript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
+- **Frameworks**: ![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white) ![LESS](https://img.shields.io/badge/-LESS-004daa?style=flat&logo=LESS&logoColor=white) ![LESS](https://img.shields.io/badge/-Tailwind-0ca4ea?style=flat&logo=TailwindCSS&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/-git-orange?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-orange?style=flat&logo=linux&logoColor=black)
 
 ---
@@ -30,7 +30,7 @@
 - **Portfolio in Telegram**: **[\*Click\*](https://t.me/timmylich_portfolio)**
 - **Telegram**: **[\*Click\*](https://t.me/timmylich)**
 - **VKontakte**: **[\*Click\*](https://vk.com/timmylich)**
-- **Discord**: **@timmylich.**
+- **Discord**: @timmylich.
 
 ---
 
