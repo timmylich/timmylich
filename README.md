@@ -30,7 +30,7 @@
 - **Portfolio in Telegram**: **[\*Click\*](https://t.me/timmylich_portfolio)**
 - **Telegram**: **[\*Click\*](https://t.me/timmylich)**
 - **VKontakte**: **[\*Click\*](https://vk.com/timmylich)**
-- **Discord**: @timmylich.
+- **Discord**: **[\*Click\*](http://discordapp.com/users/523177185062682685)**
 
 ---
 
