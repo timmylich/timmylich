@@ -11,7 +11,7 @@
 
 ### 💻 My Projects
 
-- <img src="https://img.shields.io/badge/Pawn-FFB000?style=for-the-badge&logo=pawn&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> **[Brentwood Project](t.me/brentwood_official)** - crossplatform roleplay russian-speaking **SA-MP** project **[ [WEB](bw-p.ru) | [VK](vk.com/brentwood_official) | [TG](t.me/brentwood_official) | [DS](discord.bw-p.ru) ]**
+- <img src="https://img.shields.io/badge/Pawn-FFB000?style=for-the-badge&logo=pawn&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> **[Brentwood Project](t.me/brentwood_official)** - crossplatform roleplay russian-speaking **SA-MP** project **[ [WEB](bw-p.ru) | [VK](vk.com/brentwood_official) | [TG](t.me/brentwood_official) | [DS](discord.bw-p.ru) ]**
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> **[SA:MP Monitoring](t.me/samp_monitoring_bot)** - bot for tracking events on **SA:MP** servers
 
 ### 📫 How to reach me
