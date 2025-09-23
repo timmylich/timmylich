@@ -36,10 +36,6 @@
 ### 📊 GitHub Public Repo's Stats
 
 <p align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=timmylich&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Timmylich's GitHub stats" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timmylich&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timmylich&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=timmylich&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" alt="Timmylich's GitHub stats" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timmylich&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
