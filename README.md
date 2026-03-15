@@ -10,6 +10,7 @@
 <p align="center"><ul><li><b><a href="https://t.me/brentwood_official">Brentwood Project</a></b> - crossplatform roleplay russian-speaking <b>SA-MP</b> project <b>[ <a href="https://bw-p.ru">WEB</a> | <a href="https://vk.com/brentwood_official">VK</a> | <a href="https://t.me/brentwood_official">TG</a> | <a href="https://discord.bw-p.ru">DS</a> ]</b></li>
 <li><b><a href="https://t.me/samp_monitoring_bot">SA:MP Monitoring</a></b> - bot for tracking events on <b>SA:MP</b> servers</li></ul></p>
 
+---
 <h3 align="center">📫 How to reach me</h3>
 
 <p align="center">
