@@ -1,8 +1,8 @@
 
 <h2 align="center">👋 Привет, я <a href="https://github.com/timmylich">timmylich</a></h2>
-<h3 align="center">Разработчик игровых серверов (SA-MP/Pawn) и Telegram/Discord ботов</h3>
+<h3 align="center">Разработчик игровых серверов (SA-MP/Pawn), веб-приложений и Telegram-ботов.</h3>
 
-<p align="center">Беру заказы на разработку и доработку игровых модов, кастомных систем и ботов-автоматизации.<br>Опыт в разработке — 3-5 лет. Портфолио и кейсы ниже 👇</p>
+<p align="center">Разрабатываю игровые моды SA-MP/open.mp, веб-приложения и Telegram-ботов.<br>Опыт в разработке — 5 лет. Портфолио и кейсы ниже 👇</p>
 
 <p align="center">
   <a href="https://t.me/timmylich">
@@ -43,10 +43,9 @@
 
 <p align="center">
 <table align="center">
-  <tr><td>🎮</td><td><b>Разработка и доработка игровых серверов</b> — SA-MP, Pawn/C++: режимы, кастомные системы, античит, оптимизация под нагрузку</td></tr>
-  <tr><td>🤖</td><td><b>Telegram-боты</b> (aiogram) — мониторинг, магазины, автоматизация, интеграции с API</td></tr>
-  <tr><td>💬</td><td><b>Discord-боты</b> — модерация, статистика, кастомные команды</td></tr>
-  <tr><td>🌐</td><td><b>Веб-разработка</b> — сайты и панели администрирования (HTML/CSS/JS, PHP, React)</td></tr>
+  <tr><td>🎮</td><td><b>SA:MP / open.mp</b> — игровые системы любой сложности, исправления, деплой, связь игры с внешними сервисами</td></tr>
+  <tr><td>🤖</td><td><b>Telegram-боты</b> (aiogram) — боты разной сложности, в том числе с подключением широкого спектра способов оплаты</td></tr>
+  <tr><td>🌐</td><td><b>Веб-разработка</b> — Back-End и базовый Front-End на базе React JS, Python и PHP</td></tr>
 </table>
 </p>
 
@@ -56,7 +55,7 @@
 
 <p align="center"><ul>
 <li><b><a href="https://t.me/brentwood_official">Brentwood Project</a></b> — кроссплатформенный ролевой SA-MP проект <b>[ <a href="https://bw-p.ru">WEB</a> | <a href="https://vk.com/brentwood_official">VK</a> | <a href="https://t.me/brentwood_official">TG</a> | <a href="https://discord.bw-p.ru">DS</a> ]</b></li>
-<li><b><a href="https://newyork-gta.online">New York Times</a></b> — игровой мод / ролевой проект на базе SA-MP <b>[ <a href="https://newyork-gta.online">WEB</a> ]</b></li>
+<li><b><a href="https://newyork-gta.online">New York Times</a></b> — игровой мод / ролевой проект на базе SA-MP</li>
 <li><b><a href="https://t.me/samp_monitoring_bot">SA:MP Monitoring</a></b> — Telegram-бот для отслеживания событий на SA:MP серверах</li>
 </ul></p>
 
@@ -77,13 +76,4 @@
   <a href="http://discordapp.com/users/523177185062682685">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</p>
-
----
-
-<h3 align="center">📊 GitHub статистика</h3>
-
-<p align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=timmylich&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Timmylich's GitHub stats" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timmylich&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
